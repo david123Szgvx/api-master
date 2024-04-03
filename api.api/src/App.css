@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(228, 242, 237);
+}
+
+.container {
+  text-align: center;
+  margin-top: 2rem;
+  padding: 0 3%;
+}
+
+.head{
+  font-size: 45px;
+  text-decoration: underline;
+  color: rgb(34, 109, 248);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 8px;
+  border: 2px solid #ec0c1f;
+  border-radius: 5px;
+  margin: 3px 0;
+  background-color: #b2b2dc;
+}
+
